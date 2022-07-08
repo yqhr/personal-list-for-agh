@@ -13,3 +13,4 @@ img.tsite.jp
 # 2022-07-08
 mixi.jp
 mixi.co.jp
+strava.com
