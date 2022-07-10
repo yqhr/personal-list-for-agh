@@ -1,20 +1,20 @@
 # 2022-07-07
-simplelogin.io
-imap.zoho.com
-ip2c.org
-komachi.yomiuri.co.jp
-zwyr157wwiu6eior.com
-valuecommerce.ne.jp
-dmm.co.jp
-www3.idpass-net.nenkin.go.jp
-hapitas.jp
-img.tsite.jp
+@@|simplelogin.io^$important
+@@|imap.zoho.com^$important
+@@|ip2c.org^$important
+@@|komachi.yomiuri.co.jp^$important
+@@|zwyr157wwiu6eior.com^$important
+@@|valuecommerce.ne.jp^$important
+@@|dmm.co.jp^$important
+@@|www3.idpass-net.nenkin.go.jp^$important
+@@|hapitas.jp^$important
+@@|img.tsite.jp^$important
 
 # 2022-07-08
-mixi.jp
-mixi.co.jp
-strava.com
+@@|mixi.jp^$important
+@@|mixi.co.jp^$important
+@@|strava.com^$important
 
 # 2022-07-10
-service.smt.docomo.ne.jp
-fc2.com
+@@|service.smt.docomo.ne.jp^$important
+@@|fc2.com^$important
