@@ -17,3 +17,4 @@ strava.com
 
 # 2022-07-10
 service.smt.docomo.ne.jp
+fc2.com
