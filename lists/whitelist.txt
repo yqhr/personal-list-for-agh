@@ -17,4 +17,3 @@
 
 # 2022-07-10
 @@|service.smt.docomo.ne.jp^$important
-@@||blog-imgs-*.fc2.com^$important
