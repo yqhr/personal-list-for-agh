@@ -16,4 +16,7 @@
 @@|strava.com^$important
 
 # 2022-07-10
+! d払い
 @@|service.smt.docomo.ne.jp^$important
+! fc2
+@@||cdn77.org^$dnstype=~CNAME
