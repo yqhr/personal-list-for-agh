@@ -17,4 +17,4 @@
 
 # 2022-07-10
 @@|service.smt.docomo.ne.jp^$important
-@@|fc2.com^$important
+@@|cdn77.org^$important
