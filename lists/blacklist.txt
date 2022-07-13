@@ -3,3 +3,13 @@
 ! ref: https://jjy.nict.go.jp/httphttps-index.html
 ||ntp-a1.nict.go.jp^$important
 ||ntp-b1.nict.go.jp^$important
+
+! Philips hue (disabled)
+!||data.meethue.com^
+!||ws.meethue.com^
+!||diagnostics.meethue.com^
+!||mqtt.2030.ltsapis.goog^
+
+||akamon-clinic.com^$important
+||tokyo-brain.clinic^$important
+||shinjuku-stress.com^$important
