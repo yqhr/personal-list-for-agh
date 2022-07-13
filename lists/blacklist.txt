@@ -1,0 +1,5 @@
+# 2022-07-13
+! stop nict service via http/https
+! ref: https://jjy.nict.go.jp/httphttps-index.html
+||ntp-a1.nict.go.jp^$important
+||ntp-b1.nict.go.jp^$important
