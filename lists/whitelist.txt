@@ -7,7 +7,7 @@
 @@|valuecommerce.ne.jp^$important
 @@|dmm.co.jp^$important
 @@|www3.idpass-net.nenkin.go.jp^$important
-@@|hapitas.jp^$important
+@@|*.hapitas.jp^$important
 @@|img.tsite.jp^$important
 
 # 2022-07-08
