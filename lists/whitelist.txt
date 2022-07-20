@@ -21,3 +21,4 @@
 
 # 2022-07-20
 @@|dic.nicovideo.jp^$important
+@@|*.simplelogin.io^$important
