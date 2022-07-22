@@ -3,7 +3,6 @@
 @@|imap.zoho.com^$important
 @@|ip2c.org^$important
 @@|komachi.yomiuri.co.jp^$important
-@@|zwyr157wwiu6eior.com^$important
 @@|valuecommerce.ne.jp^$important
 @@|dmm.co.jp^$important
 @@|www3.idpass-net.nenkin.go.jp^$important
@@ -24,4 +23,6 @@
 @@|*.simplelogin.io^$important
 
 # 2022-07-22
+! nordvpn login
+@@|zwyr157wwiu6eior.com^$important
 @@|auth.zwyr157wwiu6eior.com^$important
