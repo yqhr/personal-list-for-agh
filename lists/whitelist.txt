@@ -4,7 +4,6 @@
 @@|ip2c.org^$important
 @@|komachi.yomiuri.co.jp^$important
 @@|valuecommerce.ne.jp^$important
-@@|dmm.co.jp^$important
 @@|www3.idpass-net.nenkin.go.jp^$important
 @@|*.hapitas.jp^$important
 @@|img.tsite.jp^$important
@@ -26,3 +25,6 @@
 ! nordvpn login
 @@|zwyr157wwiu6eior.com^$important
 @@|auth.zwyr157wwiu6eior.com^$important
+
+# 2022-07-23
+@@|*.dmm.co.jp^$important
