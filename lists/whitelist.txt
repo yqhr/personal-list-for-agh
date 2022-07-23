@@ -23,7 +23,7 @@
 
 # 2022-07-22
 ! nordvpn login
-@@|zwyr157wwiu6eior.com^$important
+@@|*.zwyr157wwiu6eior.com^$important
 @@|auth.zwyr157wwiu6eior.com^$important
 
 # 2022-07-23
