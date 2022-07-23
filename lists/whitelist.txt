@@ -1,6 +1,6 @@
 # 2022-07-07
 ! @@|simplelogin.io^$important
-! @@|imap.zoho.com^$important
+@@|imap.zoho.com^$important
 @@|ip2c.org^$important
 @@|komachi.yomiuri.co.jp^$important
 @@|valuecommerce.ne.jp^$important
@@ -30,4 +30,4 @@
 @@|*.dmm.co.jp^$important
 
 # 2022-07-24
-@@|*.zoho.com^$important
+@@|www.zoho.com^$important
