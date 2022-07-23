@@ -1,5 +1,5 @@
 # 2022-07-07
-@@|simplelogin.io^$important
+! @@|simplelogin.io^$important
 ! @@|imap.zoho.com^$important
 @@|ip2c.org^$important
 @@|komachi.yomiuri.co.jp^$important
