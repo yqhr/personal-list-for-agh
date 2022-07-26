@@ -31,3 +31,8 @@
 
 # 2022-07-24
 @@|www.zoho.com^$important
+
+# 2022-07-26
+! y!shopping
+@@|ck.storematch.jp^$important
+@@|*.page.link^$important
