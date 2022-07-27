@@ -36,3 +36,6 @@
 ! y!shopping
 @@|ck.storematch.jp^$important
 @@|*.page.link^$important
+
+# 2022-07-27
+@@|*.quora.com^important
