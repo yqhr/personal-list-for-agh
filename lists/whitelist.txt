@@ -39,3 +39,6 @@
 
 # 2022-07-27
 @@|*.quora.com^important
+
+# 2022-07-29
+@@|hapitas.jp^$important
