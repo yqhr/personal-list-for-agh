@@ -42,3 +42,9 @@
 
 # 2022-07-29
 @@|hapitas.jp^$important
+
+# 2022-08-01
+! LINE
+@@|gwz.line.naver.jp^$important
+! AppStore
+@@|amp-api-edge.apps.apple.com^$important
