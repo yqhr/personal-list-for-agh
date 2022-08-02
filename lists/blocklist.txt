@@ -13,3 +13,10 @@
 ||akamon-clinic.com^$important
 ||tokyo-brain.clinic^$important
 ||shinjuku-stress.com^$important
+
+# 2022-08-02
+! avoid fukuoka-u's ntp server due to high loading
+! this will be stopped in the future.
+! ref: https://www.ipc.fukuoka-u.ac.jp/service/ntp/public_ntp/
+||133.100.9.2^important
+||133.100.11.8^important
