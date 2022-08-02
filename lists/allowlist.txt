@@ -47,4 +47,4 @@
 ! LINE
 @@|gwz.line.naver.jp^$important
 ! AppStore
-@@|amp-api-edge.apps.apple.com^$important
+! @@|amp-api-edge.apps.apple.com^$important
