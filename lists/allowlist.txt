@@ -48,3 +48,7 @@
 @@|gwz.line.naver.jp^$important
 ! AppStore
 ! @@|amp-api-edge.apps.apple.com^$important
+
+# 2022-08-02
+! false positive (Internet Multifeed)
+@@|*.mfeed.ad.jp^$important
