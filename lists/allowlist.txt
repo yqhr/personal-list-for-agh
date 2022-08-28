@@ -1,54 +1,54 @@
 # 2022-07-07
-! @@|simplelogin.io^$important
-@@|imap.zoho.com^$important
-@@|ip2c.org^$important
-@@|komachi.yomiuri.co.jp^$important
-@@|valuecommerce.ne.jp^$important
-@@|www3.idpass-net.nenkin.go.jp^$important
-@@|*.hapitas.jp^$important
-@@|img.tsite.jp^$important
+! @@||simplelogin.io^$important
+@@||imap.zoho.com^$important
+@@||ip2c.org^$important
+@@||komachi.yomiuri.co.jp^$important
+@@||valuecommerce.ne.jp^$important
+@@||www3.idpass-net.nenkin.go.jp^$important
+@@||*.hapitas.jp^$important
+@@||img.tsite.jp^$important
 
 # 2022-07-08
-@@|mixi.jp^$important
-@@|mixi.co.jp^$important
-@@|strava.com^$important
+@@||mixi.jp^$important
+@@||mixi.co.jp^$important
+@@||strava.com^$important
 
 # 2022-07-10
 ! d払い
-@@|service.smt.docomo.ne.jp^$important
+@@||service.smt.docomo.ne.jp^$important
 
 # 2022-07-20
-@@|dic.nicovideo.jp^$important
-@@|*.simplelogin.io^$important
+@@||dic.nicovideo.jp^$important
+@@||*.simplelogin.io^$important
 
 # 2022-07-22
 ! nordvpn login
-@@|*.zwyr157wwiu6eior.com^$important
-@@|auth.zwyr157wwiu6eior.com^$important
+@@||*.zwyr157wwiu6eior.com^$important
+@@||auth.zwyr157wwiu6eior.com^$important
 
 # 2022-07-23
-@@|*.dmm.co.jp^$important
+@@||*.dmm.co.jp^$important
 
 # 2022-07-24
-@@|www.zoho.com^$important
+@@||www.zoho.com^$important
 
 # 2022-07-26
 ! y!shopping
-@@|ck.storematch.jp^$important
-@@|*.page.link^$important
+@@||ck.storematch.jp^$important
+@@||*.page.link^$important
 
 # 2022-07-27
-@@|*.quora.com^important
+@@||*.quora.com^important
 
 # 2022-07-29
-@@|hapitas.jp^$important
+@@||hapitas.jp^$important
 
 # 2022-08-01
 ! LINE
-@@|gwz.line.naver.jp^$important
+@@||gwz.line.naver.jp^$important
 ! AppStore
-! @@|amp-api-edge.apps.apple.com^$important
+! @@||amp-api-edge.apps.apple.com^$important
 
 # 2022-08-02
 ! false positive (Internet Multifeed)
-@@|*.mfeed.ad.jp^$important
+@@||*.mfeed.ad.jp^$important
