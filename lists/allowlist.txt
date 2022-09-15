@@ -88,3 +88,6 @@
 @@||ck.jp.ap.valuecommerce.com^
 @@||pml.pocketcard.co.jp^
 @@||hapitas.jp^
+
+# 2022-09-15
+@@||validate.perfdrive.com^
