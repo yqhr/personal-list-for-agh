@@ -53,41 +53,5 @@
 ! false positive (Internet Multifeed)
 @@||*.mfeed.ad.jp^$important
 
-# 2022-09-09
-! import from nextdns personal allowlist
-@@||aan.amazon.co.jp^
-@@||gwz.line.naver.jp^
-@@||auth.zwyr157wwiu6eior.com^
-@@||service.smt.docomo.ne.jp^
-@@||mixi.co.jp^
-@@||mixi.jp^
-@@||imap.zoho.com^
-@@||www3.idpass-net.nenkin.go.jp^
-@@||storematch.jp^
-@@||affiliate.shopping.yahoo.co.jp^
-@@||rakuten-static.com^
-@@||piano.io^
-@@||webform.shinseibank.com^
-@@||antiwkb.atwebpages.com^
-@@||ip2c.org^
-@@||imgbox.com^
-@@||search-voi.0101.co.jp^
-@@||www.a-q-f.com^
-@@||r.mail.ru^
-@@||komachi.yomiuri.co.jp^
-@@||zwyr157wwiu6eior.com^
-@@||www.rakuten-card.co.jp^
-@@||valuecommerce.ne.jp^
-@@||atrrd.valuecommerce.com^
-@@||dmm.co.jp^
-@@||crypto.com^
-@@||rakuten.co.jp^
-@@||ac.ebis.ne.jp^
-@@||demae-can.com^
-@@||click.linksynergy.com^
-@@||ck.jp.ap.valuecommerce.com^
-@@||pml.pocketcard.co.jp^
-@@||hapitas.jp^
-
 # 2022-09-15
 @@||validate.perfdrive.com^
