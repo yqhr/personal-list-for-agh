@@ -55,3 +55,7 @@
 
 # 2022-09-15
 @@||validate.perfdrive.com^
+
+# 2022-10-02
+! LINE notification ?
+@@||crs-event.line.me^$important
