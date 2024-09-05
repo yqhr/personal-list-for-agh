@@ -59,3 +59,10 @@
 # 2022-10-02
 ! LINE notification ?
 @@||crs-event.line.me^$important
+
+# 2024-09-05
+! ntp
+@@||ntp.jst.mfeed.ad.jp^$important
+! agoda
+@@||bento.agoda.com^$important
+@@||searchapi.agoda.com^
